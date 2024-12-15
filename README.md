@@ -54,7 +54,6 @@
 
 <h2>Github stats:</h2> 
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: nowrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexTeper99&show_icons=true&theme=tokyonight&hide_border=true&locale=en" style="max-width: 100%;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexTeper99&theme=material-palenight" style="max-width: 100%;"/>
+[![](https://github-readme-stats.vercel.app/api?username=AlexTeper99&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/AlexTeper99)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=AlexTeper99&theme=material-palenight)](https://github.com/AlexTeper99)
 </div>
