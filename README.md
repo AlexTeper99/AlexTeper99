@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi, I'm Alex</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Alex</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <img align="right" width=300px alt="Gojo" src="https://media1.giphy.com/media/kSxi9DiWH4Q8q1Kbql/giphy.gif?cid=6c09b9520bx22pkeo61oiizyh2h2z81lr84jb2btk2z6pkua&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" />
 
