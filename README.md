@@ -54,7 +54,9 @@
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=AlexTeper99&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/AlexTeper99) [![](https://github-readme-streak-stats.herokuapp.com/?user=AlexTeper99&theme=material-palenight)](https://github.com/AlexTeper99)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexTeper99&show_icons=true&theme=tokyonight&hide_border=true&locale=en" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexTeper99&theme=material-palenight" />
+</p>
 
----
 
