@@ -4,11 +4,11 @@
 
 💼 With over three years of professional experience and twelve years of programming, I have had the privilege of contributing to impactful projects as a software developer. I am a graduated Software Engineer currently working at EvolutionCode as a Web and Mobile Developer, where I collaborate closely with clients to create customized, high-quality solutions that align with their unique requirements.
 
-💻 I am passionate about continuous learning and teamwork, always striving to deliver efficient solutions.
-🌱 I’m currently learning more about software best practices, guided by the best software books.
-👯 I’m looking forward to collaborating on life-changing projects and contributing to innovative software development.
-✔ Ask me about anything; I am happy to help!
-Outside of tech, 🍜 I love watching anime, 🎮 playing video games, and 📖 reading books.
+- 💻 I am passionate about continuous learning and teamwork, always striving to deliver efficient solutions. <br/>
+- 🌱 I’m currently learning more about software best practices, guided by the best software books. <br/>
+- 👯 I’m looking forward to collaborating on life-changing projects and contributing to innovative software development. <br/>
+- ✔ Ask me about anything; I am happy to help! <br/>
+- Outside of tech, 🍜 I love watching anime, 🎮 playing video games, and 📖 reading books.
 
 ## My Skills Include
 
