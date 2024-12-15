@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning more about software best practices, guided by the best software books. <br/>
 - 👯 I’m looking forward to collaborating on life-changing projects and contributing to innovative software development. <br/>
 - ✔ Ask me about anything; I am happy to help! <br/>
-- Outside of tech, 🍜 I love watching anime, 🎮 playing video games, and 📖 reading books.
+- Outside of tech, 🍜 I love watching anime, 🎮 playing video games and 📖 reading books.
 
 ## My Skills Include
 
