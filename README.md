@@ -54,7 +54,7 @@
 
 <h2>Github stats:</h2> 
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 20px; height: 100vh;">
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 20px; height: 100vh; width: 100%">
   <img src="https://github-readme-stats.vercel.app/api?username=AlexTeper99&show_icons=true&theme=tokyonight&hide_border=true&locale=en" style="max-width: 100%;"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexTeper99&theme=material-palenight" style="max-width: 100%;"/>
 </div>
