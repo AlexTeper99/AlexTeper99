@@ -55,8 +55,6 @@
 <h2>Github stats:</h2> 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexTeper99&show_icons=true&theme=tokyonight&hide_border=true&locale=en" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexTeper99&theme=material-palenight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexTeper99&show_icons=true&theme=tokyonight&hide_border=true&locale=en" style="display:inline-block;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexTeper99&theme=material-palenight" style="display:inline-block;" />
 </p>
-
-
