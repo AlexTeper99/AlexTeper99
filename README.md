@@ -2,7 +2,7 @@
 <!--  -->
 <img align="right" width=300px alt="Gojo" src="https://media1.giphy.com/media/kSxi9DiWH4Q8q1Kbql/giphy.gif?cid=6c09b9520bx22pkeo61oiizyh2h2z81lr84jb2btk2z6pkua&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" />
 
-💼 With four of professional experience, I have had the privilege of contributing to impactful projects as a software developer. I am a graduated System Analyst currently working at Mercado Libre as a Software Engenieer, where I collaborate closely with clients to create customized, high-quality solutions that align with their unique requirements.
+💼 With over four years of professional experience, I have had the privilege of contributing to impactful projects as a software developer. I am a graduated System Analyst currently working at Mercado Libre as a Software Engenieer, where I collaborate closely with clients to create customized, high-quality solutions that align with their unique requirements.
 
 - 💻 I am passionate about continuous learning and teamwork, always striving to deliver efficient solutions. <br/>
 - 🌱 I’m currently learning more about software best practices, guided by the best software books. <br/>
